@@ -1,0 +1,227 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "cc36a907df0905f8",
+      "main_ads_intertitial":"8e030283b8fa98c4",
+      "main_ads_natives":"ecf5176922af07d4",
+      "main_ads_rewards":"cc8ff7b97091c3fa",
+      "backup_ads_natives":"a15d7925f336f7ff",
+      "backup_ads_banner":"189e63cebd383dd9",
+      "backup_ads_intertitial":"39612949a90791c8",
+      "backup_ads_rewards":"34997b46a331709b",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"234342234",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Arijit Singh Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/GZtYg9tc-BhbFNXyjtWm4bjVriRPfHxxiUjoJvFXOlFhgV0v8JLFxp-ptjIHNBWzMyC1=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindi.call.chat.videocall.arijitsingh"
+    },{
+      "id":1,
+      "title":"Amitabh Bachchan Fake Call",
+      "image":"https://play-lh.googleusercontent.com/vGfLDQHh5MdJKzqEThlmUsW5V5SYrFw3FOOhTSCuaVC5ND_fGj0lYlO8lD3MjPIkRRc=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.amitabhbachchan"
+    },{
+      "id":1,
+      "title":"Priyanka Chopra Fake Video Cal",
+      "image":"https://play-lh.googleusercontent.com/V7RPUS-W1Xu4VFsGT36snwaKWxcuXCSof4L8VGpFBprcq9Lf1w_2mqPUkzZ6yKjmWps=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.priyankachopra"
+    },{
+      "id":1,
+      "title":"Mythpat Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/G4SLYPXYuUs0jPzqPw9FJpjvZ25JqRU88pnJNkNZSoUatzv1GU2rVpO7Wcde_gzn_w=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.mythpatadvani"
+    },{
+      "id":1,
+      "title":"Rohit Sharma Fake Call",
+      "image":"https://play-lh.googleusercontent.com/_sMhAWex2lND5A9JkbHugITzqvb8eFZiPBibtw7ASMtWRINSHTUMIF8J1bw_TcPXlPE=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.rhoitsharma"
+    },{
+      "id":1,
+      "title":"Triggered Insaan Video Call",
+      "image":"https://play-lh.googleusercontent.com/mu-Jdw4fC2wUBc8cEj0-P12gf8BeYwJQgHeJR2igcbTzzY1uRMOB1yJkocWFYV1ZnRzs=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.triggeredinsaan"
+    },{
+      "id":1,
+      "title":"Hardik Pandya Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/RuJewSln8pE-IXXmKljSilnq8Mpg-ONBPJA0PsR6rAFc1BsH4EdoBOgivRQ1NV--lMk=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.hardikpandya"
+    },{
+      "id":1,
+      "title":"Kareena Kapoor Video Call",
+      "image":"https://play-lh.googleusercontent.com/IZOyZxrTHLTmjnuLUTy9zoPwlJ-5Ag5qCWZDx9cpvsA9wZUwKDcUNp3ASCxCZlWCB48=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.kareenakapoor"
+    },{
+      "id":1,
+      "title":"Garima Chaurasia Video Call",
+      "image":"https://play-lh.googleusercontent.com/DUsIBixqVyudVQovTS_1Sv-bdbUqq4EWcyLN_lmHOS2eggFDroNeTMrEbOiCIBB_yy4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.garimachaurasia"
+    },{
+      "id":1,
+      "title":"Chapati Hindustani Fake Call",
+      "image":"https://play-lh.googleusercontent.com/NEYniRGGmVKMZ-6gco8YJmdUPtxn4SuFC1I_Ro1g-E4jO0ocvI32HmzZuAUJFci3-CY=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.chapati"
+    },{
+      "id":1,
+      "title":"Just Sul Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/ARyLRTpqayelPjLJT0mZGo66fHfgKiVEgLh6EHPVQBQYpZKmY205j2W8AJTT0rudUA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.justsul"
+    },{
+      "id":1,
+      "title":"Emraan Hashmi Fake Call",
+      "image":"https://play-lh.googleusercontent.com/amtcFDuda-EM61beQ88vlhTLOMaib-ZcRNOpWxjTiRGR65udpPa8gZBw8wZFOsy9aQWy=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.emraanhasmi"
+    },{
+      "id":1,
+      "title":"Jannat Zubair Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/JhTfSU11yFfF7XPQAupt8YL_UhPTHsvYt3TIgzm0_uG03OTEM0-FLpxB_VtEekL3zQw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.jannatzubair"
+    },{
+      "id":1,
+      "title":"Ajey Nagar Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/IkRSsv3XJ8cDLb38l0mR4Uowj1TGGU9SXhfsG26dZX5MDst5PtB8yDVMSrA5AKX7o_4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.ajeynagar"
+    },{
+      "id":1,
+      "title":"KL Rahul Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/9P2DF8W1se3YgJEyOd753Szrx721LODpkZMyKlo4xc67EVvQkwdLzgZ22QntNPFOlQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.klrahul"
+    },{
+      "id":1,
+      "title":"Bhuvan Bam Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/qqm1aUEUB2KEAFTk-NBNbka5QiMGn816w4K-88seGlNY1YBQ76htPKSKprtpmFUqSQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.bhuvanbam"
+    },{
+      "id":1,
+      "title":"Avneet Kaur Video Call Prank",
+      "image":"https://play-lh.googleusercontent.com/Hllae-Wn6Rx1zksuqQ-pN-ALzfPtS0LVxjOplMNtNdkBTx70fLiFs8BDhHKJXXca3g=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.avneetkaur"
+    },{
+      "id":1,
+      "title":"Riyaz Aly Video Call Chat You",
+      "image":"https://play-lh.googleusercontent.com/S4ulExBYJuVXEcpKTB8DxlyzpJHxxQjv1V0lcqcAQhcpqT04KsYvw61Ky01eLDZOGZE=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.riyazaly"
+    },{
+      "id":1,
+      "title":"Arishfa Khan Fake Call Prank",
+      "image":"https://play-lh.googleusercontent.com/Au_46gLcIeWpFUNaIPFXgpSw7eV4Zq2-ZJO-xzVDNKHTwzbQxYGP9X7ex_96owD_krfz=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.arishfakhan"
+    },{
+      "id":1,
+      "title":"Aashika Bhatia Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/V5m6VUOKq5ubvC8FS7CQHU-FAkiLT22uvQKXjeZFwh2wRM3T9i8R9sIL-EWBCty255gU=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.aashikabhatia"
+    },{
+      "id":1,
+      "title":"Nisha Guragain Video Call Fake",
+      "image":"https://play-lh.googleusercontent.com/c-BzmhJFthy0cUORCX0QXr8O9p7amjFAr2jJ2witsJeOZT8nmiPE965DegaYg8--JQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.nishaguragain"
+    },{
+      "id":1,
+      "title":"Ajay Devgn Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/XEEy8O8Ewzhmp-943ATTwbG4r7K50alvdrBnRfLE_0GkTqb9BW_5nJIDT8ifCuwwZQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.ajaydevgn"
+    },{
+      "id":1,
+      "title":"Kartik Aaryan Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/J5LvKUg7Ge86oac9dU-ol_cRJrQ49EM6CFbRovYrKsMg-ScsRe_V7iV83VMeLK2_SLY=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.kartikaaryan"
+    },{
+      "id":1,
+      "title":"Tabu Hindi Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/lMicW8cEFvPUVsYsSYNtUd0kl4UKERaQjfYkwVYC6uhzUywd_wL8vYwAeHOm6CEJ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.tabuhindi"
+    },{
+      "id":1,
+      "title":"Khushi Hegde Video Call Prank",
+      "image":"https://play-lh.googleusercontent.com/9xtXE9er6h_aXpFfHCEyx6IKCvF7JobkSqsxKgaI1ZTxUxznHl1_LE5g2FjPLi5Zxto=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.khusihegde"
+    },{
+      "id":1,
+      "title":"Krutika Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/5RYmH8xvJ7AzzVGTTRtH3CmNv1IiHtpdkeMr0Bz_DZWIISHZSVsIOwpgohJY-gZ3lyE=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.krutika"
+    },{
+      "id":1,
+      "title":"Lmaoavni Fake Call Prank Call",
+      "image":"https://play-lh.googleusercontent.com/9vPdag8aNqegCkUbGgWp2QhZSe0PNUpnGt8ZZ3tkPYdXunzEX0KnitIpuQthMlHutjph=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.lmaoavni"
+    },{
+      "id":1,
+      "title":"Lucky Dancer Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/bROB9JETw0npAnEIzQNTCCqq_yXNBDSFrcjiCQOaeRTulgKnFDK433wqeRdcnZjtIA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.luckydancer"
+    },{
+      "id":1,
+      "title":"Tiger Shroff Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/RfhC9n6uzIgK8hj51GBtjSH73Iz5YZfFIP8n5gYU3OppGQh89nbYuv8iqQ67JUWr3YY=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.tigershroff"
+    },{
+      "id":1,
+      "title":"Sameeksha Sud Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/jKQoSNrUcgGYgndPrE5inuFuQO68zM2O25IAr_URMC0teuPnz8hOW1AdRmB2h-PsXihW=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.sameekshasud"
+    },{
+      "id":1,
+      "title":"Dhar Mann fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/JlNY9k9LDu81O8d2cqAxtdIISzX6Tb0i7lqbk_T2upGKLNAk270BzQai109d78SmGxy_=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.dharmann"
+    },{
+      "id":1,
+      "title":"Faisal Shaikh Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/Z-3Bx2iT5utonQocMUDAHJIsnduUYX5eBbDJZ2ioUgou_pljkzMycNA03r_j7g00kQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.faisalshaikh"
+    },{
+      "id":1,
+      "title":"Rashi Khanna Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/F3lG3-vX42UuAQ2_XZqcliP1P3nlssli4_1GE92e3ZF1OVxM-q8MRHSVrnbWDn3FL0U=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.rashikhanna"
+    },{
+      "id":1,
+      "title":"Ananya Pandey Fake Video Call",
+      "image":"https://play-lh.googleusercontent.com/wEcSGI03OTzinn_aU6JH7rxTEM0ZGvOrdxO1kT7JchUs1QQOM1gNo83LshkUZSbBDARj=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.hindicelebritycall.ananyapandey"
+    }
+  ],
+  "Item":
+  [
+      {
+      "id":1,
+      "name":"AmitabhBachchan❤",
+      "image_url":"https://raw.githubusercontent.com/hindicelebritycall/videonya/96986d61cb2e49d70ffd5a6dfc4c6a8cdc6e85dd/8.amitabhbachchanfakecallprank/HALU%201.png",
+      "video_url":"https://github.com/hindicelebritycall/videonya/blob/main/8.amitabhbachchanfakecallprank/HALU%201.mkv?raw=true",
+      "voice_url":"https://github.com/hindicelebritycall/videonya/blob/main/8.amitabhbachchanfakecallprank/HALU%201.MP3?raw=true"
+    },{
+      "id":1,
+      "name":"AmitabhBachchan❤",
+      "image_url":"https://raw.githubusercontent.com/hindicelebritycall/videonya/96986d61cb2e49d70ffd5a6dfc4c6a8cdc6e85dd/8.amitabhbachchanfakecallprank/HALU%202.png",
+      "video_url":"https://github.com/hindicelebritycall/videonya/blob/main/8.amitabhbachchanfakecallprank/HALU%202.mkv?raw=true",
+      "voice_url":"https://github.com/hindicelebritycall/videonya/blob/main/8.amitabhbachchanfakecallprank/HALU%201.MP3?raw=true"
+    },{
+      "id":1,
+      "name":"AmitabhBachchan❤",
+      "image_url":"https://raw.githubusercontent.com/hindicelebritycall/videonya/96986d61cb2e49d70ffd5a6dfc4c6a8cdc6e85dd/8.amitabhbachchanfakecallprank/HALU%203.png",
+      "video_url":"https://github.com/hindicelebritycall/videonya/blob/main/8.amitabhbachchanfakecallprank/HALU%203.mkv?raw=true",
+      "voice_url":"https://github.com/hindicelebritycall/videonya/blob/main/8.amitabhbachchanfakecallprank/HALU%201.MP3?raw=true"
+    }
+  ]  
+}
